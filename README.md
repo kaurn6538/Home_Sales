@@ -33,6 +33,7 @@ First change the data types then sql query for the answers.
 
 4- What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
+<img width="448" alt="Screenshot 2024-04-04 at 10 18 01 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/b46b736a-56d1-4ee2-8cba-6bc875ab0610">
 
 
 Compare the run times for the various methods of running the same sql query as question # 4 above:
