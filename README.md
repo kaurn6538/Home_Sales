@@ -1,6 +1,6 @@
 ## Home_Sales
-
 Home Sales Key Metrics
+
 <img width="830" alt="Screenshot 2024-04-04 at 10 07 50 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/48723846-c6eb-4647-8841-e46f37ddf3ec">
 
 
