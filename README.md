@@ -14,7 +14,7 @@ The required questions answered as follows:
 
 First change the data types then sql query for the answers.
 
-
+<img width="351" alt="Screenshot 2024-04-04 at 10 12 08 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/10b239da-56b8-45b1-901b-dce0227d03e2">
 
 1- What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places. The average prices for a four bedroom house sold by year are as follows:
 
