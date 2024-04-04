@@ -39,6 +39,8 @@ First change the data types then sql query for the answers.
 
 Compare the run times for the various methods of running the same sql query as question # 4 above:
 
+<img width="288" alt="Screenshot 2024-04-04 at 10 21 03 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/eaa1a848-ed13-4e2f-86c7-7bb738c4df62">
+
 
 
 The highest run time was the sql query from the partitioned parquet files (1.04312419891357 seconds). It was 0.47975 seconds slower than the cached temporary table sql query (0.563373327255249 seconds) and 0.15167 seconds slower than the original temporary table view sql query (0.891453504562377 seconds). The cached temporary table sql query runs fast 0.32808 seconds faster than the original temporary table query.
