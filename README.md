@@ -29,6 +29,7 @@ First change the data types then sql query for the answers.
 
 3- What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
+<img width="185" alt="Screenshot 2024-04-04 at 10 19 52 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/c0601c58-d970-4f30-917f-14ce248e18b2">
 
 
 4- What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
