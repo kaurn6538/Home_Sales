@@ -22,6 +22,7 @@ First change the data types then sql query for the answers.
 
 
 2- What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+<img width="189" alt="Screenshot 2024-04-04 at 10 15 52 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/68c2fc99-7b85-4308-80aa-06beacf62210">
 
 
 
