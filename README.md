@@ -8,9 +8,11 @@ Home Sales Key Metrics
 
 In this challenge, we use our knowledge of SparkSQL to determine key metrics about home sales data. Then we use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
+<img width="816" alt="Screenshot 2024-04-04 at 10 23 53 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/d446268c-0d14-4629-a6a3-528231a84a07">
 
 
-The required questions answered as follows:
+
+## The required questions answered as follows:
 
 First change the data types then sql query for the answers.
 
