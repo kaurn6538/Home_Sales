@@ -41,7 +41,6 @@ First change the data types then sql query for the answers.
 
 Compare the run times for the various methods of running the same sql query as question # 4 above:
 
-<img width="288" alt="Screenshot 2024-04-04 at 10 21 03 AM" src="https://github.com/kaurn6538/Home_Sales/assets/98873779/eaa1a848-ed13-4e2f-86c7-7bb738c4df62">
 
 
 The partitioned parquet files took (0.5213661193847656 seconds). It was 02.264898  seconds slower than the cached temporary table sql query (0.25624680519104004 ) .The original temporary table view sql query took (1049.030042886734 seconds).The cached temporary table sql query runs fast 1048.7738 seconds faster than the original temporary table query.
